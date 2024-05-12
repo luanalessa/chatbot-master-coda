@@ -13,6 +13,20 @@
 ## Descrição
 Saudações, jovem Padawan! Este é o Chat com o Mestre Coda, uma ferramenta desenvolvida na galáxia do Google Colab, utilizando a mística biblioteca google-generativeai. Nesta jornada, você poderá interagir com o lendário Mestre Coda, que guiará seus estudos através da Força.
 
+## Como funciona?
+
+Vamos manter uma conversa para construir seu roteiro de estudo Jedi personalizado!
+
+Primeiro, diga-me o que você deseja aprender sobre Python.
+
+- Fundamentos da Força: Domine os conceitos básicos e sinta a sintaxe de alguma linguagem de programação.
+- Caminho do Jedi Intermediário: Aprofunde seus conhecimentos e explore estruturas de dados e módulos.
+- Lorde Sith Avançado: Domine as técnicas avançadas e torne-se um mestre em Python.
+
+Após escolher seu caminho, prepare-se para receber um roteiro de estudo Jedi completo!
+
+Que a Força te guie durante a sua jornada!
+
 ## Instalação e Configuração
 Para iniciar sua jornada, primeiro, você precisa instalar as ferramentas necessárias. No terminal da sua nave, execute o comando a seguir:
 
