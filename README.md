@@ -13,7 +13,7 @@
 ## Descrição
 Saudações, jovem Padawan! Este é o Chat com o Mestre Coda, uma ferramenta desenvolvida na galáxia do Google Colab, utilizando a mística biblioteca google-generativeai. Nesta jornada, você poderá interagir com o lendário Mestre Coda, que guiará seus estudos através da Força.
 
-Instalação e Configuração
+## Instalação e Configuração
 Para iniciar sua jornada, primeiro, você precisa instalar as ferramentas necessárias. No terminal da sua nave, execute o comando a seguir:
 
 ```bash
