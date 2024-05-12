@@ -19,9 +19,11 @@ Vamos manter uma conversa para construir seu roteiro de estudo Jedi personalizad
 
 Primeiro, diga-me o que você deseja aprender sobre Python.
 
+```bash
 - Fundamentos da Força: Domine os conceitos básicos e sinta a sintaxe de alguma linguagem de programação.
 - Caminho do Jedi Intermediário: Aprofunde seus conhecimentos e explore estruturas de dados e módulos.
 - Lorde Sith Avançado: Domine as técnicas avançadas e torne-se um mestre em Python.
+```
 
 Após escolher seu caminho, prepare-se para receber um roteiro de estudo Jedi completo!
 
